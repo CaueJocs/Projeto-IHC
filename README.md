@@ -19,15 +19,16 @@ O objetivo é oferecer uma solução acessível e multiplataforma que auxilie na
 
 ## Introdução
 
-Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
-- Apresente uma breve descrição.
-- Apresente o objetivo. 
-- Apresente o usuário final.
-- Apresente os principais benefícios para o usuários.
-- Apresente as funcionalidades.
-- Apresente as tecnologias e ferramentas computacionais utilizadas.
-- Apresente o contexto de uso.
-- O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
+2) Título Original do TCC: Comparação em tempo real de protocolo de exercícios fisioterápicos 
+3) Nome do orientador: Victor Perrone de Lima Varela
+4) Previsto desenvolver Interface? (  X ) Sim     (   ) Não
+5) Objetivo do trabalho? Utilizar Pose Estimation para comparação de exercícios fisicos 
+6) Qual o produto final?  O produto final do projeto é um sistema multiplataforma de análise de vídeos de exercícios físicos, que utiliza o MediaPipe para extrair poses corporais e aplicar cálculos matemáticos sobre os movimentos. A ferramenta gera relatórios e métricas quantitativas da execução dos exercícios, permitindo avaliar aspectos como postura, ângulos e repetições, oferecendo uma solução acessível para acompanhamento e correção da prática física. 
+7) Quem é o usuário final deste produto? praticantes de atividades físicas, profissionais de educação física, treinadores e fisioterapeutas.
+8) O que o usuário recebe de benefício ao usar esse produto? O benefício do usuário seria a possibilidade de receber um feedback objetivo e quantitativo sobre a execução dos exercícios, baseado em métricas matemáticas extraídas dos vídeos.
+9) Quais as funcionalidades da ferramenta (visão do usuário)?  O usuário teria a opção testar a aplicação sem realmente comparar a pose com o vídeo base, opção de iniciar a gravação com comparação de pose, opção de verificar resultados e de escolher qual vídeo base deseja utilizar.
+10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)? No projeto como linguagem principal será utilizado python no código fonte, mediapipe para extração da pose do usuário e do vídeo base, matplotlib para gráficos e analise das mídias e tkinter para criar a interface do usuário. 
+11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala) ? o contexto de uso vai se consistir na execução do programa em ambientes fechados e controlados como consultórios ou triagens médicas. 
 
 ## Publico Alvo
 
