@@ -13,6 +13,9 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Siste
 
 ## Resumo
 
+O projeto consiste em uma aplicação voltada à avaliação da execução de exercícios físicos a partir de vídeos. Utilizando a biblioteca MediaPipe para extração de poses corporais, o sistema realiza o processamento e análise dos movimentos gravados, gerando resultados matemáticos e métricas de desempenho sobre a execução dos exercícios.
+
+O objetivo é oferecer uma solução acessível e multiplataforma que auxilie na correção de práticas físicas, contribuindo para a melhoria técnica dos usuários e possibilitando aplicações em contextos de treinamento, reabilitação e educação física.
 
 ## Introdução
 
