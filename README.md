@@ -32,8 +32,11 @@ O objetivo é oferecer uma solução acessível e multiplataforma que auxilie na
 
 ## Publico Alvo
 
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
+- O produto é direcionado a praticantes de atividades físicas e profissionais da área de saúde e esporte, como educadores físicos, personal trainers e fisioterapeutas, além de instituições acadêmicas voltadas a estudos de movimento humano.
+- Demográficas: jovens e adultos (18–45 anos) com interesse em atividades físicas regulares, bem como profissionais formados ou em formação em Educação Física, Fisioterapia e áreas afins.
+- Comportamentais: pessoas que buscam melhorar sua performance nos treinos, monitorar resultados de forma precisa ou corrigir posturas para evitar lesões; profissionais que necessitam de ferramentas de análise para auxiliar alunos e pacientes.
+- Psicográficas: indivíduos motivados por autodesenvolvimento, saúde, bem-estar e desempenho físico, que valorizam tecnologia acessível e métodos inovadores para otimizar resultados.
+- Geográficas: aplicável em qualquer região, mas com maior potencial em centros urbanos, onde há maior concentração de academias, estúdios de treinamento, clínicas de fisioterapia e universidades com cursos de saúde e esporte.
 
 ## Análise de concorrência
 
