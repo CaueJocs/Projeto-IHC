@@ -9,7 +9,6 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Siste
 - Luan Moreno Petroucic
 - Pedro Leite
 - Giuliano Mazzaro
-- Guilherme Brigagão Cabelo
 
 ## Resumo
 
