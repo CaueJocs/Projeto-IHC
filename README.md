@@ -6,9 +6,9 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Siste
 
 - Caue Jacomini Zanatti
 - Vinicius Henrique
-- Luan Moreno Petroucic
+- Luan Petroucic Moreno 
 - Pedro Leite
-- Giuliano Mazzaro
+- Giulliano Mazzaro
 
 ## Resumo
 
