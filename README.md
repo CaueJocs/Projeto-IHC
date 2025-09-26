@@ -1,6 +1,6 @@
 # Projeto de Interface Humano-Computador
 
-Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
+Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4276893H6) e Prof. Dr. [Plinio Thomaz Aquino Junior](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4760819P7).
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Sistema de Correção de Exercícios Físicos com MediaPipe: Uma Solução Multiplataforma Acessível sob orientação do Professor Victor Perrone de Lima Varela e desenvolvido pelos seguintes alunos:
 
