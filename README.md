@@ -2,7 +2,7 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4276893H6) e Prof. Dr. [Plinio Thomaz Aquino Junior](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4760819P7).
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Sistema de Correção de Exercícios Físicos com MediaPipe: Uma Solução Multiplataforma Acessível sob orientação do Professor Victor Perrone de Lima Varela e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Sistema de Correção de Exercícios Físicos com MediaPipe sob orientação do Professor Victor Perrone de Lima Varela e desenvolvido pelos seguintes alunos:
 
 - Caue Jacomini Zanatti
 - Vinicius Henrique
@@ -18,7 +18,7 @@ O objetivo é oferecer uma solução acessível e multiplataforma que auxilie na
 
 ## Introdução
 
-2) Título Original do TCC: Comparação em tempo real de protocolo de exercícios fisioterápicos 
+2) Título Original do TCC: Sistema de Correção de Exercícios Físicos com MediaPipe
 3) Nome do orientador: Victor Perrone de Lima Varela
 4) Previsto desenvolver Interface? (  X ) Sim     (   ) Não
 5) Objetivo do trabalho? Utilizar Pose Estimation para comparação de exercícios fisicos 
