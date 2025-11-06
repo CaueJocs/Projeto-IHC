@@ -4,11 +4,11 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado Sistema de Correção de Exercícios Físicos com MediaPipe sob orientação do Professor Victor Perrone de Lima Varela e desenvolvido pelos seguintes alunos:
 
-Luan Petroucic Moreno – RA: 22.122.076‑7
-Vinicius Henrique Silva – RA: 22.122.063‑5
-Cauê Jacomini Zanatti – RA: 22.122.024‑7
-Giulliano Mazzaro Camargo – RA: 22.121.024‑8
-Pedro Henrique Almeida Leite – RA: 22.221.003‑1
+- Luan Petroucic Moreno – RA: 22.122.076‑7
+- Vinicius Henrique Silva – RA: 22.122.063‑5
+- Cauê Jacomini Zanatti – RA: 22.122.024‑7
+- Giulliano Mazzaro Camargo – RA: 22.121.024‑8
+- Pedro Henrique Almeida Leite – RA: 22.221.003‑1
 
 
 ## Resumo
